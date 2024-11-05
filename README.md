@@ -6,7 +6,7 @@ ArcX is the world's first metaverse ecosystem project to integrate physical arca
 
 # Deployed Contracts
 
-### opBNB Testnet Deployment
+### Ton Testnet Deployment
 
 | Contract Name  | Address                                    | Purpose                                   |
 |----------------|--------------------------------------------|-------------------------------------------|
